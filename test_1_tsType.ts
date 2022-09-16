@@ -37,7 +37,7 @@ function getAllneme(School:string): string {
 }
 
 getMySchool()
-getAllneme(mySchool)
+getAllneme(mySchool) //
 // never:函数，永远不会发生值处理，或者是处理报错信息时候用never，
 
 // tuple 元组：有序，有固定个数的数组
